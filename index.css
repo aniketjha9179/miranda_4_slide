@@ -177,7 +177,7 @@ body {
   font-family: Editorial;
 }
 #page1 h1 {
-  font-size: 37vw;
+  font-size: 33vw;
   font-family: Canopee;
   background-color: #161616;
   font-weight: 100;
@@ -185,7 +185,7 @@ body {
   line-height: 380px;
   width: 98%;
   margin-left: 2%;
-  letter-spacing: -15px;
+  letter-spacing: 5px;
   overflow-y: hidden;
 }
 
